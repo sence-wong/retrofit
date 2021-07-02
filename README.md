@@ -17,7 +17,7 @@ Download [the latest JAR][2] or grab via Maven:
   <version>2.2.0</version>
 </dependency>
 ```
-or Gradle:
+or Gradle1:
 ```groovy
 compile 'com.squareup.retrofit2:retrofit:2.2.0'
 ```
